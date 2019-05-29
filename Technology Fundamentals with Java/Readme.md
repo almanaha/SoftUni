@@ -1,16 +1,17 @@
 # Technology Fundamentals with Java
 
-January - April 2019 [link](https://softuni.bg/trainings/2239/technology-fundamentals-with-java-january-2019#lesson-10311)<br/>
+January - April 2019 [-->> link](https://softuni.bg/trainings/2239/technology-fundamentals-with-java-january-2019#lesson-10311)<br/>
 [Software University](https://softuni.bg)<br/>
 
 Course Topics<br/>
-*   [Stack and Queues](https://github.com/almanaha/SoftUni/tree/master/Java%20Advanced/StacksAndQueues)<br/>
-*   [Multidimensional Arrays](https://https://github.com/almanaha/SoftUni/tree/master/Java%20Advanced/MultidimensionArrays)<br/>
-*	[Sets and Maps](https://https://github.com/almanaha/SoftUni/tree/master/Java%20Advanced/SetsAndMaps)<br/>
-*	[Streams, Files and Directories](https://github.com/Deianov/Java-Advanced/tree/master/src/D_StreamsFilesAndDirectories)<br/>
-*	[Functional Programming](https://github.com/Deianov/Java-Advanced/tree/master/src/E_FunctionalProgramming)<br/>
-*	[Defining Classes](https://github.com/Deianov/Java-Advanced/tree/master/src/F_DefiningClasses)<br/>
-*	Workshop – Create Simple Data Structure<br/>
-*	Generics<br/>
-*	[Iterators and Comparators](https://github.com/almanaha/SoftUni/tree/master/Java%20Advanced/IteratorsAndComparators)<br/>
-*	Workshop
+* [Basic Syntax](https://github.com/almanaha/SoftUni/tree/master/Technology%20Fundamentals%20with%20Java/BasicSyntax)<br/>
+* [Data Types](https://github.com/almanaha/SoftUni/tree/master/Technology%20Fundamentals%20with%20Java/DataTypes)<br/>
+*	[Arrays](https://github.com/almanaha/SoftUni/tree/master/Technology%20Fundamentals%20with%20Java/Arrays)<br/>
+*	[List](https://github.com/almanaha/SoftUni/tree/master/Technology%20Fundamentals%20with%20Java/List)<br/>
+*	[Maps, Lambda && Stream API](https://github.com/almanaha/SoftUni/tree/master/Technology%20Fundamentals%20with%20Java/MapsLambdaStreamAPI)<br/>
+*	[Methods](https://github.com/almanaha/SoftUni/tree/master/Technology%20Fundamentals%20with%20Java/Methods)<br/>
+*	[Objects && Classes](https://github.com/almanaha/SoftUni/tree/master/Technology%20Fundamentals%20with%20Java/Objects%D0%90ndClasses)<br/>
+*	[String Processing && Regex](https://github.com/almanaha/SoftUni/tree/master/Technology%20Fundamentals%20with%20Java/StringProcessingAndRegex)<br/>
+*	[Exams](https://github.com/almanaha/SoftUni/tree/master/Technology%20Fundamentals%20with%20Java/Exams)<br/>
+*	[Extra Work](https://github.com/almanaha/SoftUni/tree/master/Technology%20Fundamentals%20with%20Java/ExtraWork)<br/>
+*	[Web Projects](https://github.com/almanaha/SoftUni/tree/master/Technology%20Fundamentals%20with%20Java/Students-Web-Projects)<br/>
