@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Crossing sequences", "1. Crossing sequences\1. Crossing sequences.csproj", "{D260E5A2-44BA-496C-B47F-F454A5B3FC69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Magic Dates", "2. Magic Dates\2. Magic Dates.csproj", "{FA8B835F-3CF4-4CCD-B8DC-8CF69E969297}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Five Special Letters", "3. Five Special Letters\3. Five Special Letters.csproj", "{2F8AB2CA-0672-4CA8-AEED-8DA74E8667A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Passion Days", "1. Passion Days\1. Passion Days.csproj", "{6C1344E1-4407-4193-93A2-403BE72D0F70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. X Expression", "2. X Expression\2. X Expression.csproj", "{3C87B62F-5A92-4D9D-B90E-270095657338}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Bulls and Cows", "3. Bulls and Cows\3. Bulls and Cows.csproj", "{957AE8E5-C412-4DD6-B340-463886D832E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D260E5A2-44BA-496C-B47F-F454A5B3FC69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D260E5A2-44BA-496C-B47F-F454A5B3FC69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D260E5A2-44BA-496C-B47F-F454A5B3FC69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D260E5A2-44BA-496C-B47F-F454A5B3FC69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA8B835F-3CF4-4CCD-B8DC-8CF69E969297}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA8B835F-3CF4-4CCD-B8DC-8CF69E969297}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA8B835F-3CF4-4CCD-B8DC-8CF69E969297}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA8B835F-3CF4-4CCD-B8DC-8CF69E969297}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F8AB2CA-0672-4CA8-AEED-8DA74E8667A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F8AB2CA-0672-4CA8-AEED-8DA74E8667A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F8AB2CA-0672-4CA8-AEED-8DA74E8667A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F8AB2CA-0672-4CA8-AEED-8DA74E8667A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C1344E1-4407-4193-93A2-403BE72D0F70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C1344E1-4407-4193-93A2-403BE72D0F70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C1344E1-4407-4193-93A2-403BE72D0F70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C1344E1-4407-4193-93A2-403BE72D0F70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C87B62F-5A92-4D9D-B90E-270095657338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C87B62F-5A92-4D9D-B90E-270095657338}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C87B62F-5A92-4D9D-B90E-270095657338}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C87B62F-5A92-4D9D-B90E-270095657338}.Release|Any CPU.Build.0 = Release|Any CPU
+		{957AE8E5-C412-4DD6-B340-463886D832E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{957AE8E5-C412-4DD6-B340-463886D832E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{957AE8E5-C412-4DD6-B340-463886D832E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{957AE8E5-C412-4DD6-B340-463886D832E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC53048C-4949-4397-8404-3794445B5DD8}
+	EndGlobalSection
+EndGlobal
