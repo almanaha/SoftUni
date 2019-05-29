@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Shopping Time", "1. Shopping Time\1. Shopping Time.csproj", "{F5F983BE-C2E9-40D7-8229-17F7CC9CEE59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Going Home", "2. Going Home\2. Going Home.csproj", "{3D61C74D-F67E-4E92-BFF2-CEB53FEF859F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Computer Room", "3. Computer Room\3. Computer Room.csproj", "{33D37177-339C-414F-A98A-5AA27D072CFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Own Bussiness", "4. Own Bussiness\4. Own Bussiness.csproj", "{70429BDD-56F4-4D9A-BD5B-E04C90155638}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Computer Firm", "5. Computer Firm\5. Computer Firm.csproj", "{ECD2A351-F953-48D8-A8F2-459C77F4EB24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Unique PIN Codes", "6. Unique PIN Codes\6. Unique PIN Codes.csproj", "{6F79C5AA-8DA5-4698-BDFB-FD339FB43647}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Unique PIN Codes - 2", "6. Unique PIN Codes - 2\6. Unique PIN Codes - 2.csproj", "{577C8D44-74EA-46F7-9869-3020BEFBBD0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5F983BE-C2E9-40D7-8229-17F7CC9CEE59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5F983BE-C2E9-40D7-8229-17F7CC9CEE59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5F983BE-C2E9-40D7-8229-17F7CC9CEE59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5F983BE-C2E9-40D7-8229-17F7CC9CEE59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D61C74D-F67E-4E92-BFF2-CEB53FEF859F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D61C74D-F67E-4E92-BFF2-CEB53FEF859F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D61C74D-F67E-4E92-BFF2-CEB53FEF859F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D61C74D-F67E-4E92-BFF2-CEB53FEF859F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33D37177-339C-414F-A98A-5AA27D072CFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33D37177-339C-414F-A98A-5AA27D072CFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33D37177-339C-414F-A98A-5AA27D072CFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33D37177-339C-414F-A98A-5AA27D072CFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70429BDD-56F4-4D9A-BD5B-E04C90155638}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70429BDD-56F4-4D9A-BD5B-E04C90155638}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70429BDD-56F4-4D9A-BD5B-E04C90155638}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70429BDD-56F4-4D9A-BD5B-E04C90155638}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECD2A351-F953-48D8-A8F2-459C77F4EB24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD2A351-F953-48D8-A8F2-459C77F4EB24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD2A351-F953-48D8-A8F2-459C77F4EB24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD2A351-F953-48D8-A8F2-459C77F4EB24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F79C5AA-8DA5-4698-BDFB-FD339FB43647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F79C5AA-8DA5-4698-BDFB-FD339FB43647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F79C5AA-8DA5-4698-BDFB-FD339FB43647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F79C5AA-8DA5-4698-BDFB-FD339FB43647}.Release|Any CPU.Build.0 = Release|Any CPU
+		{577C8D44-74EA-46F7-9869-3020BEFBBD0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{577C8D44-74EA-46F7-9869-3020BEFBBD0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{577C8D44-74EA-46F7-9869-3020BEFBBD0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{577C8D44-74EA-46F7-9869-3020BEFBBD0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A95E11BD-F247-4ED1-B1D9-ABD446E4BDD5}
+	EndGlobalSection
+EndGlobal
