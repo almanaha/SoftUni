@@ -1,6 +1,7 @@
 # Technology Fundamentals with Java
 
-January - March 2019 Software University (https://softuni.bg)
+January - April 2019 [link](https://softuni.bg/trainings/2239/technology-fundamentals-with-java-january-2019#lesson-10311)
+Software University (https://softuni.bg)
 
 Course Topics<br/>
 *   [Stack and Queues](https://github.com/almanaha/SoftUni/tree/master/Java%20Advanced/StacksAndQueues)<br/>
