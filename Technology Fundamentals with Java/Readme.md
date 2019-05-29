@@ -1,6 +1,6 @@
 # Technology Fundamentals with Java
 
-January - April 2019 [link](https://softuni.bg/trainings/2239/technology-fundamentals-with-java-january-2019#lesson-10311)
+January - April 2019 [link](https://softuni.bg/trainings/2239/technology-fundamentals-with-java-january-2019#lesson-10311)<br/>
 Software University (https://softuni.bg)
 
 Course Topics<br/>
