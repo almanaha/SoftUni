@@ -1,7 +1,6 @@
 # Technology Fundamentals with Java
 
 January - April 2019 [-->> link](https://softuni.bg/trainings/2239/technology-fundamentals-with-java-january-2019#lesson-10311)<br/>
-[Software University](https://softuni.bg)<br/>
 
 Course Topics<br/>
 * [Basic Syntax](https://github.com/almanaha/SoftUni/tree/master/Technology%20Fundamentals%20with%20Java/BasicSyntax)<br/>
