@@ -9,7 +9,6 @@ Course Topics<br/>
 *	[Streams, Files and Directories](https://github.com/almanaha/Software-University/tree/master/Java%20Advanced/FilesAndStreams)<br/>
 *	[Functional Programming](https://github.com/almanaha/Software-University/tree/master/Java%20Advanced/FunctionalProgramming)<br/>
 *	[Defining Classes]()<br/>
-*	Workshop – Create Simple Data Structure<br/>
 *	Generics<br/>
 *	[Iterators and Comparators](https://github.com/almanaha/SoftUni/tree/master/Java%20Advanced/IteratorsAndComparators)<br/>
-*	Workshop
+*	[Workshops](https://github.com/almanaha/Software-University/tree/master/Java%20Advanced/Workshops)<br/>
