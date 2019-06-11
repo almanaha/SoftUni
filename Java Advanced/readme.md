@@ -2,7 +2,7 @@
 
 May - June 2019 Software University (https://softuni.bg)
 
-Course Topics<br/>
+# <b>Course Topics</b><br/>
 ## [Stack and Queues](https://github.com/almanaha/SoftUni/tree/master/Java%20Advanced/StacksAndQueues)<br/>
 ## [Multidimensional Arrays](https://https://github.com/almanaha/SoftUni/tree/master/Java%20Advanced/MultidimensionArrays)<br/>
 ## [Sets and Maps](https://github.com/almanaha/Software-University/tree/master/Java%20Advanced/SetsAndMaps)<br/>
