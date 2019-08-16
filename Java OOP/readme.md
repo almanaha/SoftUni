@@ -3,7 +3,7 @@
 # <b>June - August 2019 Software University</b> (https://softuni.bg)
 
 # <b>Course Topics</b><br/>
-### [Working with Abstraction]()<br/> 
+### [Working with Abstraction](https://github.com/almanaha/Software-University/tree/master/Java%20OOP/WorkingWithAbstraction)<br/> 
 ### [Encapsulation](https://github.com/almanaha/Software-University/tree/master/Java%20OOP/Encapsulation)<br/> 
 ### [Inheritance](https://github.com/almanaha/Software-University/tree/master/Java%20OOP/Inheritance)<br/>
 ### [Interfaces & Abstraction](https://github.com/almanaha/Software-University/tree/master/Java%20OOP/InterfacesAndAbstraction)<br/>
