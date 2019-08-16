@@ -12,3 +12,4 @@
 ### [Generics](https://github.com/almanaha/Software-University/tree/master/Java%20Advanced/Generics)<br/>
 ### [Iterators and Comparators](https://github.com/almanaha/SoftUni/tree/master/Java%20Advanced/IteratorsAndComparators)<br/>
 ### [Workshops](https://github.com/almanaha/Software-University/tree/master/Java%20Advanced/Workshops)<br/>
+### [Exams](https://github.com/almanaha/Software-University/tree/master/Java%20Advanced/EXAMS)<br/>
