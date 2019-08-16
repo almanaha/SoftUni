@@ -3,13 +3,14 @@
 # <b>June - August 2019 Software University</b> (https://softuni.bg)
 
 # <b>Course Topics</b><br/>
-### [Stack and Queues](https://github.com/almanaha/SoftUni/tree/master/Java%20Advanced/StacksAndQueues)<br/>
-### [Multidimensional Arrays](https://https://github.com/almanaha/SoftUni/tree/master/Java%20Advanced/MultidimensionArrays)<br/>
-### [Sets and Maps](https://github.com/almanaha/Software-University/tree/master/Java%20Advanced/SetsAndMaps)<br/>
-### [Streams, Files and Directories](https://github.com/almanaha/Software-University/tree/master/Java%20Advanced/FilesAndStreams)<br/>
-### [Functional Programming](https://github.com/almanaha/Software-University/tree/master/Java%20Advanced/FunctionalProgramming)<br/>
-### [Defining Classes]()<br/>
-### [Generics](https://github.com/almanaha/Software-University/tree/master/Java%20Advanced/Generics)<br/>
-### [Iterators and Comparators](https://github.com/almanaha/SoftUni/tree/master/Java%20Advanced/IteratorsAndComparators)<br/>
+### [Working with Abstraction]()<br/> 
+### [Encapsulation](https://github.com/almanaha/Software-University/tree/master/Java%20OOP/Encapsulation)<br/> 
+### [Inheritance](https://github.com/almanaha/Software-University/tree/master/Java%20OOP/Inheritance)<br/>
+### [Interfaces & Abstraction](https://github.com/almanaha/Software-University/tree/master/Java%20OOP/InterfacesAndAbstraction)<br/>
+### [Polymorphism](https://github.com/almanaha/Software-University/tree/master/Java%20OOP/Polymorphism)<br/>
+### [Reflection](https://github.com/almanaha/Software-University/tree/master/Java%20OOP/Reflection)<br/>
+### [SOLID](https://github.com/almanaha/Software-University/tree/master/Java%20OOP/SOLID/Workshop%20-%20Logger)<br/>
+### [Unit Testing](https://github.com/almanaha/Software-University/tree/master/Java%20OOP/UnitTesting)<br/>
+### [Test Driven Development](https://github.com/almanaha/Software-University/tree/master/Java%20OOP/TestDrivenDevelopment)<br/>
 ### [Workshops](https://github.com/almanaha/Software-University/tree/master/Java%20Advanced/Workshops)<br/>
-### [Exams](https://github.com/almanaha/Software-University/tree/master/Java%20Advanced/EXAMS)<br/>
+### [Exams](https://github.com/almanaha/Software-University/tree/master/Java%20OOP/Exams)<br/>
